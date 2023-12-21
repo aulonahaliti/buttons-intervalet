@@ -1,0 +1,21 @@
+.start{
+    background-color: blue;
+    float: right;
+    margin-right: 2%;
+    height: 25px;
+    width: 50px;
+}
+
+.stop{
+    background-color: red;
+    float: right;
+    height: 25px;
+    width: 50px;
+}
+
+.buttons{
+    margin-top: 23%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
